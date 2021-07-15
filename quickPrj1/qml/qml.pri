@@ -1,0 +1,2 @@
+RESOURCES += ../qml/qml.qrc
+
